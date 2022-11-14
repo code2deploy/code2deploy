@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sourav.
+- 👀 I enjoy solving business problems using technology.
+- 🌱 My stack of choice is Figma, NodeJs, ExpressJs, React, NextJs, Vite, Prisma, PostgreSQL, SQLite, and AWS.
+- 💞️ I would love to know more about your current technology challenges.
+- 📫 Reach me at howcanihelp.sourav@gmail.com
